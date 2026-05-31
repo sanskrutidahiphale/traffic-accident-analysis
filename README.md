@@ -46,4 +46,4 @@ cd traffic-accident-analysis
 
 ### Step 3: Run Application
 
-streamlit run traffic_accident_analysis.py
+python -m streamlit run traffic_accident_analysis.py
