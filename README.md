@@ -38,7 +38,7 @@ The objective of this project is to study traffic accident data and uncover mean
 
 ### Step 1: Clone Repository
 
-git clone https://github.com/your-username/traffic-accident-analysis.git
+git clone https://github.com/sanskrutidahiphale/traffic-accident-analysis.git
 
 ### Step 2: Navigate to Project Folder
 
